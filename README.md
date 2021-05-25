@@ -10,6 +10,9 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 ### Files used
 bikeshare.py file
 
+### Project Submission
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
 ### View My Submission Below
 (https://github.com/Smpsnseun/pdsnd_github/files/6542485/Project.3.Git.Commands.Documentation.pdf)
 
