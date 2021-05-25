@@ -1,6 +1,4 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
-### Date created
+### Created by Sampson Agboola
 5th May, 2021.
 
 ### Project Title
@@ -13,5 +11,7 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 bikeshare.py file
 
 ### Credits
-https://guides.github.com/activities/forking/.
+https://guides.github.com/activities/forking/[Project 3 Git Commands Documentation.pdf](https://github.com/Smpsnseun/pdsnd_github/files/6542485/Project.3.Git.Commands.Documentation.pdf)
+
+https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/tree/master
 
