@@ -7,8 +7,7 @@
 Project 3 of Programming for Data Science with Python
 
 ### Description
-Project Overview
-It's time to put what you've learned about version control and GitHub into practice! In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare project using Git. Here's an overview of your tasks for this project.
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2
 
 ### Files used
 bikeshare.py file
