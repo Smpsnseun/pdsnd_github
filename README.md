@@ -11,9 +11,8 @@ https://github.com/richardkalehoff https://twitter.com/richardkalehoff Juno Lee 
 
 https://github.com/junolee https://www.linkedin.com/in/junoleelj
 
-The data for all 3 cities that is used in this project can be accessed through the link mentioned below :
 
-### City Data The link for commit message style reference for this project is given below :
+### The link for commit message style reference for this project is given below :
 
 https://udacity.github.io/git-styleguide/
 
