@@ -22,7 +22,7 @@ https://www.linkedin.com/in/junoleelj
 
 https://udacity.github.io/git-styleguide/
 
-###Softwares needed:
+### Softwares needed:
 
 Python 3, NumPy, and Pandas installed using Anaconda
 A text editor, like VS Code or Atom.
