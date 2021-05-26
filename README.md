@@ -10,7 +10,6 @@ According to the input the code will import the data and will provide informatio
 bikeshare_2.py
 
 ### Credits:
-Richard Kalehoff (Udacity mentor)
 
 https://github.com/richardkalehoff
 https://twitter.com/richardkalehoff
@@ -24,7 +23,7 @@ The data for all 3 cities that is used in this project can be accessed through t
 City Data
 The link for commit message style reference for this project is given below :
 
-Udacity Git Commit Message Style Guide
+https://udacity.github.io/git-styleguide/
 
 Softwares needed:
 Python 3, NumPy, and Pandas installed using Anaconda
