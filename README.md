@@ -9,6 +9,9 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 ### Files used
 bikeshare.py file
+new_york_city.csv
+chicago.csv
+washington.csv
 
 ### Project Submission
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
