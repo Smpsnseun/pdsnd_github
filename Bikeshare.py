@@ -6,6 +6,35 @@ import calendar as cal
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+months = ('january', 'february', 'march', 'april', 'may', 'june')
+
+weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
+            'saturday')
+
+
+def choice(prompt, choices=('y', 'n')):
+    """Return a valid input from the user given an array of possible answers.
+    """
+
+    while True:
+        choice = input(prompt).lower().strip()
+        # terminate the program if the input is end
+        if choice == 'end':
+            raise SystemExit
+        # triggers if the input has only one name
+        elif ',' not in choice:
+            if choice in choices:
+                break
+        # triggers if the input has more than one name
+        elif ',' in choice:
+            choice = [i.strip().lower() for i in choice.split(',')]
+            if list(filter(lambda x: x in choices, choice)) == choice:
+                break
+
+        prompt = ("\nSomething is not right. Please mind the formatting and "
+                  "be sure to enter a valid option:\n>")
+
+    return choice
 
 def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
