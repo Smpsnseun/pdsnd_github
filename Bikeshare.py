@@ -160,6 +160,7 @@ def user_stats(df):
 
 def main():
     while True:
+      """Main body of program"""
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
